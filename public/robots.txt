@@ -1,0 +1,7 @@
+# robots.txt for jessicadavisportfolio.netlify.app
+User-agent: *
+Allow: /
+Disallow: /mhe-control-center/
+
+# Sitemap
+Sitemap: https://jessicadavisportfolio.netlify.app/sitemap.xml

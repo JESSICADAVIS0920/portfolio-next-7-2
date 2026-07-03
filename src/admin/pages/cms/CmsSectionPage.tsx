@@ -1,0 +1,15 @@
+import { useParams } from 'react-router-dom';
+import { CmsSectionEditor } from './CmsSectionEditor';
+
+export function CmsSectionPage() {
+  const { sectionKey } = useParams();
+  if (!sectionKey) {
+    return (
+      <div className="rounded-2xl border border-white/10 bg-[#0b132000]/80 p-8">
+        <h1 className="text-lg font-semibold text-white">Unknown section</h1>
+        <p className="mt-2 text-sm text-white/60">Section not found.</p>
+      </div>
+    );
+  }
+  return <CmsSectionEditor sectionKey={sectionKey} />;
+}

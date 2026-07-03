@@ -1,0 +1,17 @@
+import { Link } from 'react-router-dom';
+import { sectionList } from '../../cms/cmsSchemas';
+
+export function CmsIndexPage() {
+  return (
+    <div className="space-y-6">
+      <h1 className="text-3xl font-bold text-white">CMS Sections</h1>
+      <ul className="space-y-2">
+        {sectionList.map((section) => (
+          <li key={section.key} className="rounded-xl border border-white/10 bg-[#0b132000]/80 p-4 hover:bg-white/5 transition-colors">
+            <Link to={`/admin/cms/${section.key}`} className="text-[#06B6D4] hover:text-[#0891B2] font-medium">{section.title}</Link>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}

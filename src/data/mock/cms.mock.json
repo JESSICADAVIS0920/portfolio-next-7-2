@@ -1,0 +1,436 @@
+{
+  "singletons": {
+    "hero": {
+      "fullName": "Jessica Latoria Davis",
+      "headline": "Senior Full Stack Engineer | Cloud & DevOps Experience",
+      "subheadline": "Full Stack Engineer with 5+ years of experience building and deploying scalable web and mobile applications using React, React Native, Flutter, Node.js, TypeScript, and modern cloud technologies",
+      "heroImageUrl": "/avatar.png",
+      "ctaPrimaryLabel": "View Portfolio",
+      "ctaPrimaryHref": "/portfolio",
+      "ctaSecondaryLabel": "Download Resume",
+      "ctaSecondaryHref": "/resume"
+    },
+    "about": {
+      "fullName": "Jessica Latoria Davis",
+      "tagline": "Senior Full Stack Engineer | Cloud & DevOps Expert",
+      "title": "About Me",
+      "bio": "Senior Full Stack Engineer with 5+ years of experience building and deploying scalable web and mobile applications using React, React Native, Flutter, Node.js, TypeScript, JavaScript, HTML, and CSS. Experienced in developing REST APIs, GraphQL APIs, Microservices, OAuth2, JWT Authentication, RBAC, and working with SQL and NoSQL Databases. Hands-on experience with AWS, Docker, Kubernetes, Jenkins, CI/CD Pipelines, GitHub Actions, Terraform, Linux, Cloud Infrastructure, and DevOps Automation to support reliable application deployment and production environments. Proven ability to improve Scalability, Performance, Reliability, Security, and System Stability across Healthcare, FinTech, and SaaS applications while working in Agile/Scrum teams.",
+      "profileImageUrl": "/avatar.png",
+      "currentRole": "Senior Full Stack Engineer",
+      "researchInterest": "Cloud Infrastructure, DevOps Automation, Scalable Web Applications, Mobile Development",
+      "highlights": [
+        "5+ years experience in Full Stack Development with React, Node.js, TypeScript",
+        "Expertise in AWS, Docker, Kubernetes, CI/CD, and DevOps Automation",
+        "Experienced in Healthcare, FinTech, and SaaS application development",
+        "Proven track record improving Scalability, Performance, and System Reliability",
+        "Strong background in Cloud Infrastructure and Production Deployment"
+      ]
+    },
+    "contact": {
+      "pageIntroText": "Feel free to connect with me for collaboration, development opportunities, or consulting projects.",
+      "hireMeLabel": "Hire Me",
+      "contactInfo": {
+        "email": "snowlee922@gmail.com",
+        "phone": "+1 689-315-0135",
+        "location": "Mesquite, TX 75150"
+      },
+      "socialLinks": [
+        { "url": "https://github.com/JESSICADAVIS0920", "platform": "github", "iconKey": "github" },
+        { "url": "https://www.linkedin.com/in/jessica-davis-126a65295", "platform": "linkedin", "iconKey": "linkedin" },
+        { "url": "mailto:snowlee922@gmail.com", "platform": "email", "iconKey": "mail" }
+      ]
+    },
+    "resumeSettings": {
+      "activeResumeId": "resume-1"
+    }
+  },
+  "collections": {
+    "resumes": [
+      {
+        "id": "resume-1",
+        "status": "active",
+        "title": "Jessica Latoria Davis - Senior Full Stack Engineer",
+        "fileUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+        "uploadedAt": "2026-04-01"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-1",
+        "status": "published",
+        "orderIndex": 1,
+        "institution": "North Carolina State University",
+        "degree": "Bachelor of Science",
+        "field": "Computer Science",
+        "grade": "",
+        "activities": "",
+        "description": "",
+        "startDate": "",
+        "endDate": "2021-12-31"
+      }      
+    ],
+    "skills": [
+      { "id": "skill-1", "status": "published", "orderIndex": 1, "name": "TypeScript", "level": 5 },
+      { "id": "skill-2", "status": "published", "orderIndex": 2, "name": "JavaScript", "level": 5 },
+      { "id": "skill-3", "status": "published", "orderIndex": 3, "name": "React", "level": 5 },
+      { "id": "skill-4", "status": "published", "orderIndex": 4, "name": "React Native", "level": 5 },
+      { "id": "skill-5", "status": "published", "orderIndex": 5, "name": "Flutter", "level": 5 },
+      { "id": "skill-6", "status": "published", "orderIndex": 6, "name": "Node.js", "level": 5 },
+      { "id": "skill-7", "status": "published", "orderIndex": 7, "name": "Express.js", "level": 5 },
+      { "id": "skill-8", "status": "published", "orderIndex": 8, "name": "REST APIs", "level": 5 },
+      { "id": "skill-9", "status": "published", "orderIndex": 9, "name": "GraphQL", "level": 4 },
+      { "id": "skill-10", "status": "published", "orderIndex": 10, "name": "PostgreSQL", "level": 5 },
+      { "id": "skill-11", "status": "published", "orderIndex": 11, "name": "MongoDB", "level": 5 },
+      { "id": "skill-12", "status": "published", "orderIndex": 12, "name": "AWS", "level": 5 },
+      { "id": "skill-13", "status": "published", "orderIndex": 13, "name": "Docker", "level": 5 },
+      { "id": "skill-14", "status": "published", "orderIndex": 14, "name": "Kubernetes", "level": 4 },
+      { "id": "skill-15", "status": "published", "orderIndex": 15, "name": "CI/CD", "level": 5 },
+      { "id": "skill-16", "status": "published", "orderIndex": 16, "name": "GitHub Actions", "level": 5 },
+      { "id": "skill-17", "status": "published", "orderIndex": 17, "name": "OAuth2", "level": 5 },
+      { "id": "skill-18", "status": "published", "orderIndex": 18, "name": "JWT Authentication", "level": 5 },
+      { "id": "skill-19", "status": "published", "orderIndex": 19, "name": "RBAC", "level": 5 },
+      { "id": "skill-20", "status": "published", "orderIndex": 20, "name": "Python", "level": 4 },
+      { "id": "skill-21", "status": "published", "orderIndex": 21, "name": "Java", "level": 3 },
+      { "id": "skill-22", "status": "published", "orderIndex": 22, "name": "C#", "level": 3 },
+      { "id": "skill-23", "status": "published", "orderIndex": 23, "name": "PHP", "level": 3 },
+      { "id": "skill-24", "status": "published", "orderIndex": 24, "name": "Firebase", "level": 4 },
+      { "id": "skill-25", "status": "published", "orderIndex": 25, "name": "Redis", "level": 4 },
+      { "id": "skill-26", "status": "published", "orderIndex": 26, "name": "SQLite (Drift)", "level": 4 },
+      { "id": "skill-27", "status": "published", "orderIndex": 27, "name": "Terraform", "level": 4 },
+      { "id": "skill-28", "status": "published", "orderIndex": 28, "name": "Linux", "level": 5 },
+      { "id": "skill-29", "status": "published", "orderIndex": 29, "name": "Agile/Scrum", "level": 5 },
+      { "id": "skill-30", "status": "published", "orderIndex": 30, "name": "Microservices", "level": 5 }
+    ],
+    "services": [
+      {
+        "id": "service-1",
+        "status": "published",
+        "orderIndex": 1,
+        "title": "Full-Stack Web & Mobile Development",
+        "summary": "Building scalable web and mobile applications using React, React Native, Flutter, Node.js, and TypeScript with modern architecture patterns."
+      },
+      {
+        "id": "service-2",
+        "status": "published",
+        "orderIndex": 2,
+        "title": "Cloud Infrastructure & DevOps",
+        "summary": "Designing and implementing AWS cloud infrastructure, Docker containers, Kubernetes orchestration, and CI/CD pipelines for reliable deployments."
+      },
+      {
+        "id": "service-3",
+        "status": "published",
+        "orderIndex": 3,
+        "title": "API Development & Microservices",
+        "summary": "Developing REST APIs, GraphQL APIs, and microservices architecture with secure authentication (OAuth2, JWT, RBAC)."
+      },
+      {
+        "id": "service-4",
+        "status": "published",
+        "orderIndex": 4,
+        "title": "Database Design & Optimization",
+        "summary": "PostgreSQL, MongoDB, Redis, Firebase database design, optimization, and management for scalable applications."
+      }
+    ],
+    "projects": [
+      {
+        "id": "project-1",
+        "status": "published",
+        "orderIndex": 1,
+        "slug": "kindertales",
+        "title": "Kindertales - Childcare Management Software",
+        "summary": "All-in-one childcare management software for preschools and daycare centers.",
+        "description": "Kindertales is a comprehensive childcare management platform designed for multi-location providers. Features include versatile online billing, powerful center management, streamlined parent communication, waitlist management, attendance tracking, milestones tracking, and integrated CRM. The platform helps childcare centers manage operations, communicate with families and staff, meet licensing requirements, and streamline daily tasks.",
+        "coverImageUrl": "/screenshots/kindertales.png",
+        "galleryImages": [],
+        "githubUrl": "",
+        "liveDemoUrl": "https://www.kindertales.com",
+        "techStack": ["React.js", "Node.js", "PostgreSQL", "REST APIs", "Mobile Apps"],
+        "featured": true
+      },
+      {
+        "id": "project-2",
+        "status": "published",
+        "orderIndex": 2,
+        "slug": "construkted",
+        "title": "Construkted - 3D Reality Capture Platform",
+        "summary": "Share, explore, and understand your 3D capture of reality.",
+        "description": "Construkted Reality is a platform for sharing, viewing, and exploring 3D captures of real-world locations. Users can upload 3D assets, browse captured locations like the Mexico City Metropolitan Cathedral, Palace of Fine Arts, and various architectural sites. The platform provides tools for 3D visualization, asset management, and collaborative exploration of spatial data.",
+        "coverImageUrl": "/screenshots/construkted.png",
+        "galleryImages": [],
+        "githubUrl": "",
+        "liveDemoUrl": "https://construkted.com",
+        "techStack": ["React.js", "Three.js", "WebGL", "Python", "Cloud Storage"],
+        "featured": true
+      },
+      {
+        "id": "project-3",
+        "status": "published",
+        "orderIndex": 3,
+        "slug": "myaiwiz",
+        "title": "MyAIWiz - AI Tax Document Automation",
+        "summary": "Convert tax documents to returns in 60 seconds using AI.",
+        "description": "MyAIWiz is an AI-powered tax document automation platform designed for CPA firms. The system processes tax documents by extracting every field using AI, exports Drake .DI5 and ProSeries import files, and provides structured workpapers. Features include AI tax document organizer, IRS notice copilot, exception flags for missing data, optional licensed CPA review, and audit-ready documentation. Built for 5-100 person firms handling high seasonal volume.",
+        "coverImageUrl": "/screenshots/myaiwiz.png",
+        "galleryImages": [],
+        "githubUrl": "",
+        "liveDemoUrl": "http://myaiwiz.com",
+        "techStack": ["Python", "AI/ML", "NLP", "React.js", "PostgreSQL"],
+        "featured": true
+      },
+      {
+        "id": "project-4",
+        "status": "published",
+        "orderIndex": 4,
+        "slug": "calmerceuticals",
+        "title": "Calmerceuticals - Premium Marine Collagen Supplements",
+        "summary": "Australian-made hydrolysed marine collagen supplements for skin health.",
+        "description": "Calmerceuticals is an e-commerce platform selling premium marine collagen supplements made in Australia. The product line includes VERISOL® Enhanced Marine Collagen, PeriCalm perimenopause relief supplements, Ultra Performance for men, microbiome-first longevity support, and deep hydrating collagen facemasks. The site features a quiz system, before/after photo reviews, and wholesale B2B login. Clinically proven to reduce wrinkles and boost skin elasticity.",
+        "coverImageUrl": "/screenshots/calmerceuticals.png",
+        "galleryImages": [],
+        "githubUrl": "",
+        "liveDemoUrl": "https://calmerceuticals.com",
+        "techStack": ["Shopify", "Liquid", "JavaScript", "Payment Integration", "E-commerce"],
+        "featured": false
+      },
+      {
+        "id": "project-5",
+        "status": "published",
+        "orderIndex": 5,
+        "slug": "okani-travels",
+        "title": "Okani Travels - African Flight Booking Platform",
+        "summary": "Travel booking platform for flights, activities, and hotels across Africa.",
+        "description": "Okani Travels is a comprehensive travel booking platform focusing on African destinations including Gabon, Cameroon, Benin, Togo, and South Africa. Features include flight booking for domestic, regional, and international routes, city exploration, activity booking, secure payment processing, and trip management. The platform offers exclusive flight deals, multi-step booking process, and WhatsApp customer support. Available in French with routes connecting Libreville to major African and international cities.",
+        "coverImageUrl": "/screenshots/okanitravels.png",
+        "galleryImages": [],
+        "githubUrl": "",
+        "liveDemoUrl": "https://www.okanitravels.com",
+        "techStack": ["React.js", "Node.js", "Payment APIs", "Travel APIs", "MongoDB"],
+        "featured": false
+      },
+      {
+        "id": "project-6",
+        "status": "published",
+        "orderIndex": 6,
+        "slug": "shugic",
+        "title": "Shugic - Modern Web Application",
+        "summary": "React-based web application platform.",
+        "description": "Shugic is a modern web application built with React.js and create-react-app. The platform features a responsive design with custom typography using Montserrat font. Built as a single-page application with optimized performance and modern UI/UX principles. The application demonstrates expertise in React development, component architecture, and modern web technologies.",
+        "coverImageUrl": "/screenshots/shugic.png",
+        "galleryImages": [],
+        "githubUrl": "",
+        "liveDemoUrl": "https://shugic.com",
+        "techStack": ["React.js", "JavaScript", "CSS3", "HTML5", "Web Fonts"],
+        "featured": false
+      }
+    ],
+    "publications": [
+      {
+        "id": "pub-1",
+        "status": "published",
+        "orderIndex": 1,
+        "title": "Scalable Cloud Architecture Patterns",
+        "authors": ["Jessica L. Davis"],
+        "publisher": "Tech Conference Proceedings",
+        "publishedDate": "2024-06-01",
+        "doi": "",
+        "pdfUrl": "",
+        "externalUrl": ""
+      }
+    ],
+    "experience": [
+      {
+        "id": "exp-1",
+        "status": "published",
+        "orderIndex": 1,
+        "company": "Greenspace Health",
+        "role": "Senior Full-Stack Engineer",
+        "startDate": "2024-01-01",
+        "endDate": "2026-04-30",
+        "description": "Developed Flutter mobile applications supporting healthcare workflows and patient operations. Built and maintained Node.js REST APIs for authentication, data synchronization, and reporting services. Implemented secure authentication using OAuth2 and JWT across mobile and backend systems. Designed offline-first architecture using SQLite (Drift) to improve reliability in low-connectivity environments. Supported AWS cloud deployments and ensured stable production environments. Contributed to CI/CD pipelines using GitHub Actions, improving deployment automation and release efficiency. Enhanced product stability through automated testing and validation workflows. Collaborated with cross-functional teams in an Agile/Scrum environment to deliver iterative releases."
+      },
+      {
+        "id": "exp-2",
+        "status": "published",
+        "orderIndex": 2,
+        "company": "CollateralEdge",
+        "role": "Full-Stack Engineer",
+        "startDate": "2022-06-01",
+        "endDate": "2023-12-31",
+        "description": "Developed React, Flutter, and TypeScript applications for financial onboarding and identity verification platforms. Built Node.js and Express.js REST APIs supporting core financial workflows and user management. Implemented RBAC and JWT Authentication for secure role-based access control. Improved application performance and system reliability through frontend and backend optimizations. Contributed to CI/CD pipelines using GitHub Actions and Fastlane for automated deployments. Utilized Docker to standardize development and deployment environments. Participated in production support and release processes to ensure system stability."
+      },
+      {
+        "id": "exp-3",
+        "status": "published",
+        "orderIndex": 3,
+        "company": "RTP Dev Lab",
+        "role": "Full-Stack Developer (Contract)",
+        "startDate": "2021-12-01",
+        "endDate": "2022-05-31",
+        "description": "Built backend services using Node.js, Express.js, and Firebase for MVP applications. Developed cross-platform mobile applications using Flutter. Integrated REST APIs and cloud-based services for scalable application features. Supported testing, deployment, and release workflows across multiple projects."
+      },
+      {
+        "id": "exp-4",
+        "status": "published",
+        "orderIndex": 4,
+        "company": "Velocity Incubator",
+        "role": "Software Developer (Part-Time)",
+        "startDate": "2020-02-01",
+        "endDate": "2021-11-30",
+        "description": "Developed web and mobile applications using Flutter, React Native, and JavaScript. Built backend services and authentication systems using Firebase. Implemented real-time features using event-driven and database-driven updates. Collaborated in Agile development teams to deliver startup MVP products."
+      }
+    ],
+    "blogs": [
+      {
+        "id": "blog-1",
+        "status": "draft",
+        "orderIndex": 1,
+        "title": "Modern DevOps Practices for Full Stack Applications",
+        "slug": "modern-devops-practices",
+        "excerpt": "Best practices for implementing CI/CD pipelines, containerization, and cloud infrastructure for scalable applications.",
+        "content": "<p>Coming soon: Article on implementing modern DevOps practices for full stack applications.</p>",
+        "coverImageUrl": "https://placehold.co/800x400?text=DevOps+Practices",
+        "author": "Jessica L. Davis",
+        "publishedDate": "2026-04-01",
+        "readTime": 5,
+        "tags": ["DevOps", "CI/CD", "Cloud", "Full Stack"]
+      }
+    ],
+    "testimonials": [
+      {
+        "id": "testi-1",
+        "status": "published",
+        "orderIndex": 1,
+        "author": "Greenspace Health Team Lead",
+        "quote": "Jessica was instrumental in developing our healthcare mobile applications and backend systems. Her expertise in Flutter, Node.js, and AWS cloud infrastructure significantly improved our application reliability and deployment processes."
+      },
+      {
+        "id": "testi-2",
+        "status": "published",
+        "orderIndex": 2,
+        "author": "CollateralEdge Project Manager",
+        "quote": "Jessica's work on our financial onboarding platform was outstanding. Her implementation of secure authentication systems and performance optimizations greatly enhanced our platform's stability and user experience."
+      }
+    ],
+    "techStackCategories": [
+      {
+        "id": "tech-cat-1",
+        "status": "published",
+        "orderIndex": 1,
+        "categoryName": "Frontend & Mobile",
+        "tools": [
+          { "id": "tool-1", "name": "React", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-2", "name": "React Native", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-3", "name": "Flutter", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-4", "name": "TypeScript", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-5", "name": "JavaScript", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-6", "name": "HTML5", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-7", "name": "CSS3", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg", "proficiencyLevel": 95 }
+        ]
+      },
+      {
+        "id": "tech-cat-2",
+        "status": "published",
+        "orderIndex": 2,
+        "categoryName": "Backend Development",
+        "tools": [
+          { "id": "tool-8", "name": "Node.js", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-9", "name": "Express.js", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-10", "name": "REST APIs", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-11", "name": "GraphQL", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg", "proficiencyLevel": 85 },
+          { "id": "tool-12", "name": "Microservices", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg", "proficiencyLevel": 90 },
+          { "id": "tool-13", "name": "Python", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg", "proficiencyLevel": 85 },
+          { "id": "tool-14", "name": "FastAPI", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg", "proficiencyLevel": 80 }
+        ]
+      },
+      {
+        "id": "tech-cat-3",
+        "status": "published",
+        "orderIndex": 3,
+        "categoryName": "Databases",
+        "tools": [
+          { "id": "tool-15", "name": "PostgreSQL", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-16", "name": "MongoDB", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-17", "name": "Redis", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg", "proficiencyLevel": 85 },
+          { "id": "tool-18", "name": "Firebase", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg", "proficiencyLevel": 85 },
+          { "id": "tool-19", "name": "SQLite", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg", "proficiencyLevel": 85 }
+        ]
+      },
+      {
+        "id": "tech-cat-4",
+        "status": "published",
+        "orderIndex": 4,
+        "categoryName": "Cloud & DevOps",
+        "tools": [
+          { "id": "tool-20", "name": "AWS", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-21", "name": "Docker", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-22", "name": "Kubernetes", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg", "proficiencyLevel": 85 },
+          { "id": "tool-23", "name": "CI/CD", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-24", "name": "GitHub Actions", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-25", "name": "Terraform", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg", "proficiencyLevel": 85 },
+          { "id": "tool-26", "name": "Linux", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg", "proficiencyLevel": 95 }
+        ]
+      },
+      {
+        "id": "tech-cat-5",
+        "status": "published",
+        "orderIndex": 5,
+        "categoryName": "Security & Authentication",
+        "tools": [
+          { "id": "tool-27", "name": "OAuth2", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-28", "name": "JWT", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-29", "name": "RBAC", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/security/security-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-30", "name": "API Security", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/security/security-original.svg", "proficiencyLevel": 90 }
+        ]
+      },
+      {
+        "id": "tech-cat-6",
+        "status": "published",
+        "orderIndex": 6,
+        "categoryName": "Tools & Methodologies",
+        "tools": [
+          { "id": "tool-31", "name": "Git", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-32", "name": "GitHub", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-33", "name": "Agile/Scrum", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-34", "name": "SDLC", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg", "proficiencyLevel": 90 },
+          { "id": "tool-35", "name": "Testing", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg", "proficiencyLevel": 90 },
+          { "id": "tool-36", "name": "Fastlane", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastlane/fastlane-original.svg", "proficiencyLevel": 85 }
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "id": "achievement-1",
+        "status": "published",
+        "orderIndex": 1,
+        "title": "5+ Years Full Stack Development",
+        "issuer": "Professional Experience",
+        "year": "2020-Present",
+        "description": "Successfully delivered multiple production applications across Healthcare, FinTech, and SaaS domains with proven scalability and reliability improvements.",
+        "externalLink": ""
+      },
+      {
+        "id": "achievement-2",
+        "status": "published",
+        "orderIndex": 2,
+        "title": "Cloud Infrastructure Expertise",
+        "issuer": "Professional Certification",
+        "year": "2023",
+        "description": "Extensive hands-on experience with AWS, Docker, Kubernetes, CI/CD pipelines, and DevOps automation for reliable application deployment.",
+        "externalLink": ""
+      }
+    ],
+    "contactMessages": [
+      {
+        "id": "msg-1",
+        "name": "John Doe",
+        "email": "john@example.com",
+        "subject": "Inquiry",
+        "message": "Hello, I have a question.",
+        "status": "new",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "handledBy": "",
+        "handledAt": ""
+      }
+    ]
+  }
+}
