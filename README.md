@@ -246,7 +246,7 @@ This project uses [Conventional Commits](https://www.conventionalcommits.org/):
 **Jessica Latoria Davis**
 
 - GitHub: [@JESSICADAVIS0920](https://github.com/JESSICADAVIS0920)
-- LinkedIn: [Jessica Davis](https://www.linkedin.com/in/jessica-davis-126a65295)
+- LinkedIn: [Jessica Davis](https://www.linkedin.com/in/jessica-davis-a60b7042b/)
 - Portfolio: [Website](https://jessicadavisportfolio.netlify.app/)
 - Email: snowlee922@gmail.com
 

@@ -181,7 +181,7 @@ export function HomePage() {
                 <Github className="w-6 h-6 text-white/60 group-hover:text-[#06B6D4] transition-colors" />
               </a>
               <a
-                href="https://www.linkedin.com/in/jessica-davis-126a65295"
+                href="https://www.linkedin.com/in/jessica-davis-a60b7042b/"
                 target="_blank"
                 rel="noreferrer"
                 className="group p-3 rounded-xl bg-[#0b132000] border border-white/10 hover:border-[#06B6D4]/50 hover:bg-[#06B6D4]/10 transition-all duration-300 hover:-translate-y-1"
